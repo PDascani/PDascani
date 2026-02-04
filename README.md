@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Cytometry in R- Starter Questions
+
+Location: Pittsburgh, PA
+Favorite Fluorophore: BV421
+Previous Coding Experience: Adding a background to my MySpace page circa 2005
+What I hope to get from this course: to be forced to finally learn some form of coding
 <!--
 **PDascani/PDascani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
